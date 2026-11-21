@@ -1,6 +1,6 @@
 {
-  "version": "3.1.4",
-  "html_url": "https://github.com/starbase64/essensbestellung-updates/releases/download/v3.1.4/Essensbestellung.html",
+  "version": "3.1.5",
+  "html_url": "https://github.com/starbase64/essensbestellung-updates/releases/download/v3.1.5/Essensbestellung.html",
   "source_url": "https://raw.githubusercontent.com/starbase64/essensbestellung-updates/main/Essensbestellung.html",
-  "notes": "Die Funktionen „Datensicherung exportieren“ und „Datensicherung importieren“ wurden vollständig aus der Oberfläche und dem Code entfernt."
+  "notes": "Gemeinsamer Mehrbenutzer-Speicher hinzugefügt: Einmal den Server-/Netzwerkordner verbinden, danach wird Essensbestellung-Daten.json auf diesem PC automatisch geladen. Speichern schreibt in die gemeinsame Datei und erkennt zwischenzeitliche Änderungen anderer PCs."
 }
