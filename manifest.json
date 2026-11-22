@@ -1,6 +1,6 @@
 {
-  "version": "3.1.9",
-  "html_url": "https://github.com/starbase64/essensbestellung-updates/releases/download/v3.1.9/Essensbestellung.html",
+  "version": "3.1.10",
+  "html_url": "https://github.com/starbase64/essensbestellung-updates/releases/download/v3.1.10/Essensbestellung.html",
   "source_url": "https://raw.githubusercontent.com/starbase64/essensbestellung-updates/main/Essensbestellung.html",
-  "notes": "Update-Benachrichtigung ergänzt: Beim Öffnen erscheint bei einer neueren Version ein sichtbarer Hinweisbanner mit Versionsnummer, Änderungen sowie „Jetzt aktualisieren“ und „Schließen“."
+  "notes": "Namensliste korrigiert: Der erste doppelte Eintrag „Florian“ wurde entfernt. Alle folgenden Namen rücken eine Position nach oben; die Liste behält 25 Zeilen."
 }
