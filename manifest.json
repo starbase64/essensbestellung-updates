@@ -1,6 +1,6 @@
 {
-  "version": "3.1.10",
-  "html_url": "https://github.com/starbase64/essensbestellung-updates/releases/download/v3.1.10/Essensbestellung.html",
+  "version": "3.1.11",
+  "html_url": "https://github.com/starbase64/essensbestellung-updates/releases/download/v3.1.11/Essensbestellung.html",
   "source_url": "https://raw.githubusercontent.com/starbase64/essensbestellung-updates/main/Essensbestellung.html",
-  "notes": "Namensliste korrigiert: Der erste doppelte Eintrag „Florian“ wurde entfernt. Alle folgenden Namen rücken eine Position nach oben; die Liste behält 25 Zeilen."
+  "notes": "Namenslisten-Migration korrigiert: Bestehende Serverdateien mit der alten doppelten Florian-Zeile werden beim Öffnen automatisch aktualisiert. Die erste Florian-Zeile wird vollständig entfernt, alle folgenden Bestellzeilen rücken hoch und die korrigierte Reihenfolge wird wieder in Essensbestellung-Daten.json gespeichert. „Alles zurücksetzen“ verwendet ebenfalls die neue Standardliste."
 }
